@@ -82,3 +82,6 @@ npm run dev
 - `MONGODB_URI`: Строка подключения к MongoDB
 - `JWT_SECRET`: Секретный ключ для генерации JWT токенов
 
+## Документация
+
+Полная документация проекта находится в репозитории [SidorchukVA_214371_RIOPK_Spec](https://github.com/Vvviky/SidorchukVA_214371_RIOPK_Spec ) 
